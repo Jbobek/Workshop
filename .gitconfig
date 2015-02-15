@@ -1,0 +1,13 @@
+[user]
+	name = Jbobek
+	email = jbobek2@uic.edu
+[core]
+    editor = nano
+    whitespace = off
+    excludesfile = ~/.gitignore
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = simple
